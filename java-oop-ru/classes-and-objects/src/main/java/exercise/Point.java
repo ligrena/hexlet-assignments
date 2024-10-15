@@ -1,7 +1,5 @@
 package exercise;
 
-import lombok.*;
-
 // BEGIN
 public class Point {
 

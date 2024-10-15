@@ -1,10 +1,5 @@
 package exercise;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NonNull;
-import lombok.Setter;
-
 // BEGIN
 public class Segment {
 
